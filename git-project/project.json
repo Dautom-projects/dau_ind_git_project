@@ -1,0 +1,6 @@
+{
+  "title": "Git Project",
+  "description": "Project for testing worckflow with Git",
+  "enabled": true,
+  "inheritable": false
+}

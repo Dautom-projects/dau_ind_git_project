@@ -9,6 +9,9 @@
     },
     "/charts": {
       "viewPath": "Page/Charts"
+    },
+    "/ivanh": {
+      "viewPath": "Page/Ivanh"
     }
   },
   "sharedDocks": {

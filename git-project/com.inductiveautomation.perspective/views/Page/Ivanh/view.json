@@ -1,0 +1,99 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "EmbeddedView"
+        },
+        "position": {
+          "basis": "56px",
+          "shrink": 0
+        },
+        "props": {
+          "params": {
+            "icon": "home",
+            "text": "Ivan H View"
+          },
+          "path": "Page/Embedded/Title"
+        },
+        "type": "ia.display.view"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Spacer_1"
+        },
+        "position": {
+          "basis": "12px",
+          "shrink": 0
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Welcome"
+        },
+        "position": {
+          "basis": "20px",
+          "shrink": 0
+        },
+        "props": {
+          "style": {
+            "classes": "Page/Bold Page/Margins Page/Text"
+          },
+          "text": "Welcome to Ivan H\u0027s view!!!"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Spacer_2"
+        },
+        "position": {
+          "basis": "10px",
+          "shrink": 0
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Description"
+        },
+        "position": {
+          "shrink": 0
+        },
+        "props": {
+          "style": {
+            "classes": "Page/Text Page/Margins"
+          },
+          "text": "This projects is intended to help yo get started with workflow and source control. For source control will be using Github."
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "hasDelegate": true,
+          "name": "Spacer_3"
+        },
+        "position": {
+          "basis": "10px",
+          "shrink": 0
+        },
+        "type": "ia.display.label"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
+  }
+}

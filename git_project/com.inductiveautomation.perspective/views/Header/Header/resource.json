@@ -9,9 +9,9 @@
   ],
   "attributes": {
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2022-10-10T22:09:06Z"
+      "actor": "external",
+      "timestamp": "2022-10-10T22:15:34Z"
     },
-    "lastModificationSignature": "c69f340288c526627b284ac6a4bac53fbbed6cf2c6aa09dda123b37218bb816a"
+    "lastModificationSignature": "779ef0d3dd173c682eb14b1af99401cc02823d2e902efeb8fe271ec905219436"
   }
 }

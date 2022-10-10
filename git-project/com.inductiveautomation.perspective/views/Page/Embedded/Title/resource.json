@@ -9,9 +9,16 @@
   ],
   "attributes": {
     "lastModification": {
+<<<<<<< HEAD
       "actor": "admin",
       "timestamp": "2022-10-10T21:01:08Z"
     },
     "lastModificationSignature": "19b949a42221c19cdfa6ef883eba328ef06323614fd6c82ed00d16fbf3330dbf"
+=======
+      "actor": "external",
+      "timestamp": "2022-10-10T20:50:44Z"
+    },
+    "lastModificationSignature": "10db8d5c100a289c8176135fa16c25974173c0f8078be91a13335fcc09a40713"
+>>>>>>> develop
   }
 }

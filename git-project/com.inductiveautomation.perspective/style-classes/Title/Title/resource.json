@@ -9,8 +9,14 @@
   "attributes": {
     "lastModification": {
       "actor": "external",
+<<<<<<< HEAD
       "timestamp": "2022-10-10T20:56:31Z"
     },
     "lastModificationSignature": "70a5905298271d245a05ebdd67c898f63b9130d6b9a0ba702ca4b99fa49ce27a"
+=======
+      "timestamp": "2022-10-10T20:50:44Z"
+    },
+    "lastModificationSignature": "0b4b34b00685b705b44974ba08c00e7c8ea91fc168c06919e45b8cda4c89a254"
+>>>>>>> develop
   }
 }
